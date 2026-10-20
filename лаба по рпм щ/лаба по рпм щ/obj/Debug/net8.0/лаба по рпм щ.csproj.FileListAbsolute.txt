@@ -1,0 +1,14 @@
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\bin\Debug\net8.0\лаба по рпм щ.exe
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\bin\Debug\net8.0\лаба по рпм щ.deps.json
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\bin\Debug\net8.0\лаба по рпм щ.runtimeconfig.json
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\bin\Debug\net8.0\лаба по рпм щ.dll
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\bin\Debug\net8.0\лаба по рпм щ.pdb
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\лаба по рпм щ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\лаба по рпм щ.AssemblyInfoInputs.cache
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\лаба по рпм щ.AssemblyInfo.cs
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\лаба по рпм щ.csproj.CoreCompileInputs.cache
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\лаба по рпм щ.dll
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\refint\лаба по рпм щ.dll
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\лаба по рпм щ.pdb
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\лаба по рпм щ.genruntimeconfig.cache
+C:\Users\413\source\repos\лаба по рпм щ\лаба по рпм щ\obj\Debug\net8.0\ref\лаба по рпм щ.dll

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD87C587-83DD-4169-B546-72F962DC1E9B}|\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449.csproj|c:\\users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\models\\classperiod_praktiki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD87C587-83DD-4169-B546-72F962DC1E9B}|\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449.csproj|solutionrelative:\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\models\\classperiod_praktiki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD87C587-83DD-4169-B546-72F962DC1E9B}|\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449.csproj|c:\\users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD87C587-83DD-4169-B546-72F962DC1E9B}|\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449.csproj|solutionrelative:\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD87C587-83DD-4169-B546-72F962DC1E9B}|\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449.csproj|c:\\users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\models\\classgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD87C587-83DD-4169-B546-72F962DC1E9B}|\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449.csproj|solutionrelative:\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\models\\classgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD87C587-83DD-4169-B546-72F962DC1E9B}|\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449.csproj|c:\\users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\models\\classstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD87C587-83DD-4169-B546-72F962DC1E9B}|\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449.csproj|solutionrelative:\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\models\\classstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassPeriod_Praktiki.cs",
+              "DocumentMoniker": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassPeriod_Praktiki.cs",
+              "RelativeDocumentMoniker": "\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassPeriod_Praktiki.cs",
+              "ToolTip": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassPeriod_Praktiki.cs",
+              "RelativeToolTip": "\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassPeriod_Praktiki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T12:06:11.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassGroup.cs",
+              "DocumentMoniker": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassGroup.cs",
+              "RelativeDocumentMoniker": "\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassGroup.cs",
+              "ToolTip": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassGroup.cs",
+              "RelativeToolTip": "\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T12:04:19.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassStudent.cs",
+              "DocumentMoniker": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassStudent.cs",
+              "RelativeDocumentMoniker": "\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassStudent.cs",
+              "ToolTip": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassStudent.cs",
+              "RelativeToolTip": "\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Models\\ClassStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T11:54:54.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Program.cs",
+              "RelativeDocumentMoniker": "\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\source\\repos\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Program.cs",
+              "RelativeToolTip": "\u043B\u0430\u0431\u0430 \u043F\u043E \u0440\u043F\u043C \u0449\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T11:26:22.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
