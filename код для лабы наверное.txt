@@ -1,0 +1,13 @@
+// node 21_generate_perf.js > perf_values.sql
+// Создайте booking_perf(employee_id int, starts_at datetime, status varchar(20)) в MySQL;
+// либо booking_perf(employee_id integer, starts_at timestamp, status text) в PostgreSQL.
+// В обоих случаях таблица должна быть пустой; права и подключение задаются отдельно.
+const total=100000, batch=1000;
+for(let first=1;first<=total;first+=batch){
+ const rows=[];
+ for(let g=first;g<first+batch&&g<=total;g++){
+  const dt=new Date(Date.UTC(2026,0,1)+g*60000).toISOString().slice(0,19).replace('T',' ');
+  rows.push('('+(g%1000+1)+",'"+dt+"','"+(g%10===0?'created':'cancelled')+"')");
+ }
+ console.log('INSERT INTO booking_perf(employee_id,starts_at,status) VALUES '+rows.join(',')+';');
+}
